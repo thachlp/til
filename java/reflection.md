@@ -1,5 +1,5 @@
 Reflection is api of Java that we can access class object of a class at run time
-![reflection.png](./images/reflection.png)
+![reflection.png](/resources/reflection.png)
 #### Useful way to get class object
 ```text
 final Class<?> stringUtils = Class.forName("org.apache.commons.lang3.StringUtils");
